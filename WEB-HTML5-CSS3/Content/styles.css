@@ -1,0 +1,36 @@
+.body {
+    clear:both;
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+    background-color: crimson;
+}
+
+
+.Main {
+    background: yellow;
+    border-radius: 5px;
+    overflow: hidden;
+    line-height: 30px;
+}
+
+.content {
+    width: 70%;
+    float: left;
+}
+
+
+.pageHeader nav {
+    background: azure;
+    height: 40px;
+    line-height: 30px;
+    margin: 0 auto 30px auto;
+    text-align: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.pageHeader nav ul {
+    margin: 0 auto;
+}
